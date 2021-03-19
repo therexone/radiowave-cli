@@ -7,7 +7,7 @@ click==7.1.2
 gif-for-cli==1.1.2
 idna==2.9
 pathspec==0.8.0
-Pillow==7.1.2
+Pillow==8.1.1
 pkg-resources==0.0.0
 python-vlc==3.0.9113
 regex==2020.5.14
